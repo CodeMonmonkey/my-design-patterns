@@ -1,155 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0b0a4a5-1496-4c72-aed2-4f5fcdd62e44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractFactory/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_03_abstract_factory/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractFactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_03_abstract_factory/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractFactory/SkinFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_03_abstract_factory/SkinFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractFactory/SpringButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_03_abstract_factory/SpringButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractFactory/SpringSkinFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_03_abstract_factory/SpringSkinFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractFactory/SpringTextField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_03_abstract_factory/SpringTextField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractFactory/SummerButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_03_abstract_factory/SummerButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractFactory/SummerSkinFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_03_abstract_factory/SummerSkinFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractFactory/SummerTextField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_03_abstract_factory/SummerTextField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractFactory/TextField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_03_abstract_factory/TextField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/abstractFactory/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_03_abstract_factory/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/adapter/Adaptee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_06_adapter/Adaptee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/adapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_06_adapter/Adapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/adapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_06_adapter/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/adapter/Target.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_06_adapter/Target.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/adapter/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_06_adapter/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/builder/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_04_builder/Actor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/builder/ActorBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_04_builder/ActorBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/builder/ActorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_04_builder/ActorController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/builder/AngleBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_04_builder/AngleBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/builder/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_04_builder/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/builder/HeroBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_04_builder/HeroBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/command01/AbstractCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_11_command/command01/AbstractCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/command01/AbstractReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_11_command/command01/AbstractReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/command01/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_11_command/command01/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/command01/Command01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_11_command/command01/Command01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/command01/Command02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_11_command/command01/Command02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/command01/Invoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_11_command/command01/Invoker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/command01/Receiver01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_11_command/command01/Receiver01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/command01/Receiver02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_11_command/command01/Receiver02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/command02/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_11_command/command02/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/command02/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_11_command/command02/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/command02/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_11_command/command02/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/command02/GigaMainBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_11_command/command02/GigaMainBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/command02/MainBoardApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_11_command/command02/MainBoardApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/command02/OpenCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_11_command/command02/OpenCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/command/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_11_command/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/composite/AbstractFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_07_composite/AbstractFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/composite/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_07_composite/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/composite/Folder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_07_composite/Folder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/composite/ImageFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_07_composite/ImageFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/composite/TextFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_07_composite/TextFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/composite/VideoFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_07_composite/VideoFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/composite/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_07_composite/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/decorator/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_08_decorator/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/factoryMethod/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_02_factory_method/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/factoryMethod/DataBaseLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_02_factory_method/DataBaseLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/factoryMethod/DataBaseLoggerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_02_factory_method/DataBaseLoggerFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/factoryMethod/FileLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_02_factory_method/FileLogger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/factoryMethod/FileLoggerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_02_factory_method/FileLoggerFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/factoryMethod/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_02_factory_method/Logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/factoryMethod/LoggerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_02_factory_method/LoggerFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/factoryMethod/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_02_factory_method/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/proxy/dynamicProxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_09_proxy/dynamicProxy/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/proxy/dynamicProxy/DynamicProxyHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_09_proxy/dynamicProxy/DynamicProxyHello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/proxy/dynamicProxy/HelloImplements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_09_proxy/dynamicProxy/HelloImplements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/proxy/dynamicProxy/IHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_09_proxy/dynamicProxy/IHello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/proxy/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_09_proxy/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/proxy/staticProxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_09_proxy/staticProxy/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/proxy/staticProxy/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_09_proxy/staticProxy/Proxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/proxy/staticProxy/RealSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_09_proxy/staticProxy/RealSubject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/proxy/staticProxy/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_09_proxy/staticProxy/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/responsibilityChain/Approver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_10_responsibility_chain/Approver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/responsibilityChain/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_10_responsibility_chain/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/responsibilityChain/Congress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_10_responsibility_chain/Congress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/responsibilityChain/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_10_responsibility_chain/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/responsibilityChain/President.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_10_responsibility_chain/President.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/responsibilityChain/PurchaseRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_10_responsibility_chain/PurchaseRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/responsibilityChain/VicePresident.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_10_responsibility_chain/VicePresident.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/responsibilityChain/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_10_responsibility_chain/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/simpleFactory/Api.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_simple_factory/Api.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/simpleFactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_simple_factory/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/simpleFactory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_simple_factory/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/simpleFactory/Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_simple_factory/Impl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/simpleFactory/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_simple_factory/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/HungrySingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_05_singleton/HungrySingle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/LazySingle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_05_singleton/LazySingle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/Button.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/SkinFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/SpringButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/SpringSkinFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/SpringTextField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/SummerButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/SummerSkinFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/SummerTextField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractFactory/TextField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/adapter/Adaptee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/adapter/Adapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/adapter/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/adapter/Target.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/Actor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/ActorBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/ActorController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/AngleBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/builder/HeroBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/command01/AbstractCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/command01/AbstractReceiver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/command01/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/command01/Command01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/command01/Command02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/command01/Invoker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/command01/Receiver01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/command01/Receiver02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/command02/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/command02/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/command02/Command.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/command02/GigaMainBoard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/command02/MainBoardApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/command/command02/OpenCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/AbstractFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/Folder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/ImageFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/TextFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/composite/VideoFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factoryMethod/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factoryMethod/DataBaseLogger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factoryMethod/DataBaseLoggerFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factoryMethod/FileLogger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factoryMethod/FileLoggerFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factoryMethod/Logger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/factoryMethod/LoggerFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/proxy/dynamicProxy/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/proxy/dynamicProxy/DynamicProxyHello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/proxy/dynamicProxy/HelloImplements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/proxy/dynamicProxy/IHello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/proxy/staticProxy/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/proxy/staticProxy/Proxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/proxy/staticProxy/RealSubject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/proxy/staticProxy/Subject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responsibilityChain/Approver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responsibilityChain/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responsibilityChain/Congress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responsibilityChain/Director.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responsibilityChain/President.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responsibilityChain/PurchaseRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responsibilityChain/VicePresident.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/simpleFactory/Api.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/simpleFactory/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/simpleFactory/Factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/simpleFactory/Impl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singleton/HungrySingle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singleton/LazySingle.class" beforeDir="false" />
-    </list>
+    <list default="true" id="a0b0a4a5-1496-4c72-aed2-4f5fcdd62e44" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -158,111 +10,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_11_command/command01/AbstractCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_03_abstract_factory/SpringTextField.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_11_command/command01/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_11_command/command01/Invoker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_11_command/command01/Receiver01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_11_command/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_10_responsibility_chain/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_10_responsibility_chain/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_10_responsibility_chain/Director.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_10_responsibility_chain/Approver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-              <folding>
-                <element signature="e#246#247#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -357,9 +110,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1911" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
+    <option name="x" value="1910" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
     <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -368,7 +121,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -398,20 +150,13 @@
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="_10_responsibility_chain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="CatdeaLogs" />
       <pane id="PackagesPane" />
     </panes>
@@ -424,13 +169,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Activiti/Activiti-20200113" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -451,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (3)">
+  <component name="RunManager">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_04_builder.Client" />
       <module name="design-patterns" />
@@ -517,15 +265,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Client (3)" />
-        <item itemvalue="Application.Client (5)" />
-        <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client (4)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -567,13 +306,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65368000" />
+    <option name="totallyTimeSpent" value="65679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21581769" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23927614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -587,9 +325,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32658958" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32658958" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32604736" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32947975" />
